@@ -10,7 +10,7 @@ Infused with the magic of the Feywild, most fairies look like Small elves with i
 | 4   | A glittering mist constantly surrounds you.                                  |
 | 5   | You have a small spectral horn on your forehead, like a little unicorn horn. |
 | 6   | Your legs are insectile.                                                     |
-| 7   | You smell like fresh brownies.A noticeable, harmless chill surrounds you     |
+| 7   | You smell like fresh brownies. A noticeable, harmless chill surrounds you     |
 
 ![[fairy.png|300]]
 
