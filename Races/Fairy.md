@@ -11,7 +11,9 @@ Infused with the magic of the Feywild, most fairies look like Small elves with i
 | 5   | You have a small spectral horn on your forehead, like a little unicorn horn. |
 | 6   | Your legs are insectile.                                                     |
 | 7   | You smell like fresh brownies.A noticeable, harmless chill surrounds you     |
+
 ![[fairy.png|300]]
+
 **Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
 **Creature Type:** Fey
 **Size:** Small
