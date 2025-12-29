@@ -15,9 +15,13 @@ Infused with the magic of the Feywild, most fairies look like Small elves with i
 ![[fairy.png|300]]
 
 **Ability Scores:** Choose one of: (a) Choose any +2; choose any other +1 (b) Choose three different +1
+
 **Creature Type:** Fey
+
 **Size:** Small
+
 **Speed:** 30 feet, Fly equal to your walking speed
+
 **Creature Type.** You are a Fey.
 
 **Fairy Magic.** You know the druidcraft cantrip. Starting at 3rd level, you can cast the *faerie fire* spell with this trait. Starting at 5th level, you can also cast the *enlarge/reduce* spell with this trait. Once you cast *faerie fire* or *enlarge/reduce* with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
